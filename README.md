@@ -1,5 +1,8 @@
 # Game Name: Patrol Enemy AI
 
+![Uploading image.png…]()
+
+
 ## Overview
 This project is a simple Unity-based 2D game where the player can interact with an enemy that patrols a platform. The enemy uses animations to walk and attack the player, with the ability to be hurt. The project demonstrates basic AI behaviors for a patrol enemy.
 
