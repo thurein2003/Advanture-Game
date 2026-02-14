@@ -20,6 +20,7 @@ This project is a simple Unity-based 2D game where the player can interact with 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/thurein2003/Advanture-Game.git
 ## For Contribution 
 You can look at this md file - > https://github.com/thurein2003/Advanture-Game/blob/main/HowToContribute.md
+
